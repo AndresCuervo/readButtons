@@ -1,9 +1,0 @@
-# A script for allowing screen readers access to buttons
-
-Install bookmarklet script with `npm install -g bookmarklet`,
-and compile with `bookmarklet readButtons.js out.js`
-
-## TODO:
-
-[] Add [`gulp-bookmarklet `](https://www.npmjs.com/package/gulp-bookmarklet) as
-a way to automate this! Do it with [Yarn](https://yarnpkg.com)?

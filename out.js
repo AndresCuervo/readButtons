@@ -1,0 +1,1 @@
+javascript:(function()%7Bfunction%20myLoop()%7BsetTimeout(function()%7Bbuttons%5Bi%5D.focus()%2Cmax_i%3E%2B%2Bi%26%26myLoop()%7D%2C1e3)%7Dvar%20buttons%3Ddocument.getElementsByTagName(%22button%22)%3Bconsole.log(buttons.length)%3Bvar%20i%3D0%2Cmax_i%3D10%3BmyLoop()%3B%7D)()

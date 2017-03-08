@@ -11,4 +11,4 @@ bookmarklet readButtons.js out.js
 
 - [x] Add `bookmarklet` as a node dependency to this project
 - [ ] Add [`gulp-bookmarklet `](https://www.npmjs.com/package/gulp-bookmarklet) as
-a way to automate this! Do it with [Yarn](https://yarnpkg.com)?
+a way to automate this! Do it with [Yarn](https://yarnpkg.com)? (or, actually, just use `make`?)
